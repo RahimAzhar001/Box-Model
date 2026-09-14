@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Environment/secrets
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Faster R-CNN large checkpoint
+fasterrcnn_checkpoint.pth
