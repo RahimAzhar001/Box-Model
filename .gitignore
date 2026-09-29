@@ -1,0 +1,47 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ML model files
+*.pt
+*.pth
+*.onnx
+*.h5
+*.keras
+
+# Dataset
+dataset/
+datasets/
+data/
+images/
+labels/
+cropped_images/
+
+# Videos
+violation_videos/
+videos/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Images
+*.jpg
+*.jpeg
+*.png
+*.bmp
+
+# Environment / secrets
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
